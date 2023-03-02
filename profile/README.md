@@ -1,3 +1,1 @@
-# About
-
 TypeScript monorepo collections
