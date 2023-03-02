@@ -1,2 +1,3 @@
-# .github
-About ts-monorepo 
+# About
+
+monorepo collections
